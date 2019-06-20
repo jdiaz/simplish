@@ -33,6 +33,7 @@ false
 true
 ```
 ###Data Types
+
 * bool
 * int
 * float
@@ -40,6 +41,7 @@ true
 * sequence
 
 ###Operators
+
 | Operator  | Description                                    | 
 |-----------|------------------------------------------------|
 | is        | Assigs a value to a left handside identifier   |
@@ -54,6 +56,7 @@ true
 | in | Returns wether the left hand value is found in the right hand sequence |
 
 ###Acknowledgements
+
 This project is heavily influenced by learnings from the book [Writing an interpreter in Go](https://interpreterbook.com/) by Mitchell Hashimoto. If you are interested in 
 programming language design, interpreters and compilers I highly recomend his work.
 
