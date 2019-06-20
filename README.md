@@ -2,7 +2,7 @@ Simplish
 ========
 
 Simple english, or **simplish** for short, is a dynamic expression based programming language.
-simplish is not a general purpose programming language since it lacks many
+Simplish **is not** a general purpose programming language since it lacks many
 important features associated to those langauges such as:
 
 * control flow
@@ -12,7 +12,7 @@ important features associated to those langauges such as:
 
 Instead, **simplish** enables developers to write simple english-like grammar and have it be runnable code. As such, developers can use simplish to write business logic in plain english.
 
-###Examples
+### Examples
 ```
  ____ ___ __  __ ____  _     ___ ____  _   _
 / ___|_ _|  \/  |  _ \| |   |_ _/ ___|| | | |
@@ -58,5 +58,5 @@ true
 ### Acknowledgements
 
 This project is heavily influenced by learnings from the book [Writing an interpreter in Go](https://interpreterbook.com/) by Mitchell Hashimoto. If you are interested in 
-programming language design, interpreters and compilers I highly recomend his work.
+programming language design, interpreters, and compilers I highly recommend his work.
 
