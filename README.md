@@ -32,7 +32,7 @@ false
 >> age not greater than 21 and not motorcyclist
 true
 ```
-###Data Types
+### Data Types
 
 * bool
 * int
@@ -40,7 +40,7 @@ true
 * string
 * sequence
 
-###Operators
+### Operators
 
 | Operator  | Description                                    | 
 |-----------|------------------------------------------------|
@@ -55,7 +55,7 @@ true
 | less/equals | Returns wether the left hand value is less than or equal to the right hand value |
 | in | Returns wether the left hand value is found in the right hand sequence |
 
-###Acknowledgements
+### Acknowledgements
 
 This project is heavily influenced by learnings from the book [Writing an interpreter in Go](https://interpreterbook.com/) by Mitchell Hashimoto. If you are interested in 
 programming language design, interpreters and compilers I highly recomend his work.
