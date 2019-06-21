@@ -44,10 +44,11 @@ true
 
 | Operator  | Description                                    | 
 |-----------|------------------------------------------------|
-| is        | Assigs a value to a left handside identifier   |
+| is        | Assigns a value to a left handside identifier   |
 | equals    | Compares left hand expression to right hand expression for equality |
 | and       | Logical and |
 | or        | Logical or  |
+| xor       | Logical xor |
 | not       | Inverts a bool value of the right hand expression |
 | greater than | Returns wether the left hand value is greater than to the right hand value |
 | less than | Returns wether the left hand value is less than to the right hand value |
