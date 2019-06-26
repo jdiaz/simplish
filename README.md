@@ -24,7 +24,7 @@ Instead, **simplish** enables developers to write simple english-like grammar an
 >> age equals 10
 true
 >> age greater than 20
->> false
+false
 >> insurance is "Geico"
 >> name not equals "Geico"
 false
