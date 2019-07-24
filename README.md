@@ -58,6 +58,6 @@ true
 
 ### Acknowledgements
 
-This project is heavily influenced by learnings from the book [Writing an interpreter in Go](https://interpreterbook.com/) by Mitchell Hashimoto. If you are interested in 
+This project is heavily influenced by learnings from the book [Writing an interpreter in Go](https://interpreterbook.com/) by Thorsten Ball. If you are interested in 
 programming language design, interpreters, and compilers I highly recommend his work.
 
