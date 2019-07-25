@@ -13,7 +13,7 @@ important features associated to those langauges such as:
 Instead, **simplish** enables developers to write simple english-like grammar and have it be runnable code. As such, developers can use simplish to write business logic in plain english.
 
 ### Examples
-```
+```python
  ____ ___ __  __ ____  _     ___ ____  _   _
 / ___|_ _|  \/  |  _ \| |   |_ _/ ___|| | | |
 \___ \| || |\/| | |_) | |    | |\___ \| |_| |
