@@ -14,11 +14,13 @@ Instead, **simplish** enables developers to write simple english-like grammar an
 
 ### Examples
 ```python
+"""
  ____ ___ __  __ ____  _     ___ ____  _   _
 / ___|_ _|  \/  |  _ \| |   |_ _/ ___|| | | |
 \___ \| || |\/| | |_) | |    | |\___ \| |_| |
  ___) | || |  | |  __/| |___ | | ___) |  _  |
 |____/___|_|  |_|_|   |_____|___|____/|_| |_|
+"""
 >> 
 >> age is 10
 >> age equals 10
